@@ -1,4 +1,4 @@
-# MyATodoApp
+# MyATodoApp-Follow the instructions of the author Devstackr (youtube: https://www.youtube.com/channel/UCbwsS1m4Hib6R-9F1alus_A)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
 
