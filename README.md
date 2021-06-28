@@ -1,4 +1,4 @@
-# MyAngularTodoApp-Follow the instructions of the author Devstackr on Youtube
+# MyAngularTodoApp-This is an Angular practice exercise-Follow the instructions of the author Devstackr on Youtube
 
 Youtube: https://www.youtube.com/channel/UCbwsS1m4Hib6R-9F1alus_A
 
